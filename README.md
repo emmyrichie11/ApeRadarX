@@ -35,4 +35,7 @@ Always verify that you are using the official @ApeRadarXBot account.
 
 ### Keywords
 
-ApeRadarX, ApeRadarXBot, Solana trading bot, Telegram trading bot, Solana memecoin bot, Solana trading, memecoin trading bot, Solana crypto bot
+ApeRadarX, ApeRadarXBot, Solana trading bot, Telegram trading bot, Solana memecoin bot, Solana trading, memecoin trading bot, Solana crypto bot                                                                                               ## Official Links
+
+- Telegram Bot: https://t.me/ApeRadarXBot
+- GitHub: https://github.com/emmyrichie11/ApeRadarX              
